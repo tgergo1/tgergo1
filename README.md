@@ -1,0 +1,8 @@
+- 👋 Hi, I'm @tgergo1
+- 🤓 I'm interested in pattern recognition and ranking systems, constantly envisioning the application of the abstract concepts of consciousness 🧠
+- 🧑‍💼 I have a keen ability to analyze and reevaluate core ideas in order to improve upon existing models
+- 🧮 I'm proficient in understanding the mathematical foundations of various problems
+- 🤖 I have experience using GAN models to generate novel and innovative solutions
+- 🤓 Currently learning Julia and always striving to expand my knowledge
+- 💡 Looking to collaborate on meetups about AI and its effects on the future, as well as research about GAN models
+- 💬 Contact me on Twitter (@tgergo1) or at gergely.toth@robogaze.com
