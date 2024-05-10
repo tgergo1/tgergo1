@@ -1,8 +1,5 @@
-- 👋 Hi, I'm @tgergo1
-- 🤓 I'm interested in pattern recognition and ranking systems, constantly envisioning the application of the abstract concepts of consciousness 🧠
-- 🧑‍💼 I have a keen ability to analyze and reevaluate core ideas in order to improve upon existing models
-- 🧮 I'm proficient in understanding the mathematical foundations of various problems
-- 🤖 I have experience using GAN models to generate novel and innovative solutions
-- 🤓 Currently learning Julia and always striving to expand my knowledge
-- 💡 Looking to collaborate on meetups about AI and its effects on the future, as well as research about GAN models
-- 💬 Contact me on Twitter (@tgergo1) or at gergely.toth@robogaze.com
+👋 Hello, I'm @tgergo1, Co-Founder and CTO at roboGaze.
+🧠 I specialize in neural network verification and apply topology and higher-dimensional linear algebra to machine learning challenges.
+🧑‍💼 My work involves blending complex mathematical theories with practical ML techniques to optimize our AI solutions.
+💡 Interested in partnerships on AI projects and keen to engage in meetups discussing AI and mathematics.
+💬 Contact me on X (@tgergo1) or at gergely.toth@robogaze.com.
