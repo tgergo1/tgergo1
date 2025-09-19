@@ -1,5 +1,5 @@
-- 👋 Hello, I'm @tgergo1, Co-Founder and CEO at roboGaze.
-- 🧠 I specialize in neural network verification and apply topology and higher-dimensional linear algebra to machine learning challenges.
-- 🧑‍💼 My work involves blending complex mathematical theories with practical ML techniques to optimize our AI solutions.
-- 💡 Interested in partnerships on AI projects and keen to engage in meetups discussing AI and mathematics.
-- 💬 Contact me on X (@tgergo1) or at gergely.toth@robogaze.com.
+- 👋 Hello, I'm Gergely Várhelyi-Tóth, an ML researcher working on neural network verification and the mathematics of learning systems, with a focus on topology and higher-dimensional linear algebra.
+- 🧠 My research interests include cortical column–inspired architectures, JEPA models, and the foundations of next-generation AI on the path toward AGI.
+- 🧑‍💼 I combine theoretical insights with practical machine learning to design scalable and trustworthy systems.
+- 🏢 I’m also Co-Founder of roboGaze, where I've been CTO and CEO.
+- 💬 Connect with me on X (@tgergo1) or at gergely.toth@robogaze.com
