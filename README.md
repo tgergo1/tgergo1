@@ -2,4 +2,4 @@
 - 🧠 My research interests include cortical column–inspired architectures, JEPA models, and the foundations of next-generation AI on the path toward AGI.
 - 🧑‍💼 I combine theoretical insights with practical machine learning to design scalable and trustworthy systems.
 - 🏢 I’m also Co-Founder of roboGaze, where I've been CTO and CEO.
-- 💬 Connect with me on X (@tgergo1) or at gergely.toth@robogaze.com
+- 💬 Connect with me on X (@tgergo1)
