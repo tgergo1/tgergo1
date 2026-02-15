@@ -10,4 +10,4 @@ In the meanwhile im trying to make some reasonable impact regarding AGI especial
 
 All of this mostly brings me back to Than… I mean linear-algebra. Because everything is linear algebra, if you are brave enough.
 
-I do writing here: **tgergo1.dev**
+I do some writing here: **[tgergo1.dev](https://tgergo1.dev)**
