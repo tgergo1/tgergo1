@@ -1,5 +1,4 @@
-- 👋 Hello, I'm Gergely Várhelyi-Tóth, an ML researcher working on neural network verification and the mathematics of learning systems, with a focus on topology and higher-dimensional linear algebra.
-- 🧠 My research interests include cortical column–inspired architectures, JEPA models, and the foundations of next-generation AI on the path toward AGI.
-- 🧑‍💼 I combine theoretical insights with practical machine learning to design scalable and trustworthy systems.
-- 🏢 I’m also Co-Founder of roboGaze, where I've been CTO and CEO.
-- 💬 Connect with me on X (@tgergo1)
+Hey I'm Gergely Várhelyi-Tóth, an ML researcher working on neural network verification and the mathematics of learning systems, with a focus on topology and higher-dimensional linear algebra.
+My research interests include cortical column–inspired architectures, JEPA models and energy/entropy based models on their path toward AGI.
+I spent a joyful decade at Budapest University of Technology and Economics (which I retrospectively love and being proud of - computer engineering and later mathematics). I bloomed my ML focus at NNG (automotive navigation stuff) and funded my own startup called roboGaze (driver monitoring stuff). During the 5 years I spent there, the robustness of ML models became a key factor and currently I’m focusing on this under various research groups. (e.g. TÜV Rheinland) In the meanwhile im trying to make some reasonable impact regarding AGI especially with new(ish) approaches like energy or enthropy based systems. All of this mostly brings me back to Than… I mean linear-algebra. Because everything is linear algebra, if you are brave enough.
+I do writing here: tgergo1.dev
